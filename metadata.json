@@ -1,0 +1,7 @@
+{
+  "name": "GOTEC Sales Navigator",
+  "description": "An AI-powered sales assistant and CRM dashboard for the GOTEC sales team, focused on enhancing productivity, precision, and profitability.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
